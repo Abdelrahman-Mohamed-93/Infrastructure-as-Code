@@ -1,2 +1,5 @@
-Load Balancer's public DNS name:
-http://Serve-WebAp-IJLFC802JI4W-581298165.us-east-1.elb.amazonaws.com
+## Project Diagram
+![Alt text](Udacity_project_chart.PNG)
+
+## Feedback
+If you have any feedback, please reach out to me at abdelra7man.93@outlook.com
